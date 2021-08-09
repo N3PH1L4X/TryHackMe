@@ -61,7 +61,7 @@ It's a blog with a few entries explaining some attack vectors, let's have a look
 
 ## Exploitation
 Well that looks strange... The url might be useful. Let's try checking if we can view files outside the web directory:
-![image](https://user-images.githubusercontent.com/71483185/128653228-25dd0d25-eed5-4385-a7ef-aeb6bb3603c9.png)
+![image](https://user-images.githubusercontent.com/71483185/128656392-1773d004-92f0-4619-8ec7-aaa52f299bfc.png)
 We certainly can, there is an user listed there. We can know that by searching user IDs (UID) from 1000 and over.
 
 Also there is what seems to be an user/password combination. What if we try that on the SSH port?

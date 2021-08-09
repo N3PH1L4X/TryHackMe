@@ -1,5 +1,5 @@
 # Inclusion, by N3PH1L4X
-This was a pretty fun room, it consists on basic local file inclusion and a little bit of post-exploiting enumeration. As its description states: it's for beginners, so this is a good room to learn and practice LFI. Let's start.
+This was a pretty fun room, it consists on basic local file inclusion and a little bit of post-exploitation enumeration. As its description states: it's for beginners, so this is a good room to learn and practice LFI. Let's start.
 > Room link: https://tryhackme.com/room/inclusion
 
 ## Scanning
